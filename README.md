@@ -1,3 +1,9 @@
+<a href="https://gauss.sh" target="_blank">
+  <img src="https://gauss.sh/banner" alt="Gauss — CI that runs on real GPUs" width="1200" />
+</a>
+
+---
+
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
   <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
