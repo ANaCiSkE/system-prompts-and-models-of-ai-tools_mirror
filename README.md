@@ -69,6 +69,6 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 - **X:** [Lucknite](https://x.com/Lucknite)
 - **Discord**: `x1xhlol`
-- **Email**: `lucasvalbuena@pm.me
+- **Email**: `lucasvalbuena@pm.me`
 
 **Drop a star if you find this useful!**
