@@ -2,6 +2,12 @@
   <img src="https://gauss.sh/banner" alt="Gauss — CI that runs on real GPUs" width="1200" />
 </a>
 
+<p align="center">
+  <b>Gauss</b> — GPU-native CI. Run GitHub Actions on A100s and H100s with a one-line change.
+  <br />
+  <a href="https://gauss.sh"><b>Get early access →</b></a>
+</p>
+
 ---
 
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
