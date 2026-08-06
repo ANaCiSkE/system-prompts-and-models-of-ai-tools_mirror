@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <b>Gauss</b> — GPU-native CI. Run GitHub Actions on A100s and H100s with a one-line change.
+  <b>Gauss</b> — GPU-native CI.
   <br />
   <a href="https://gauss.sh"><b>Get early access →</b></a>
 </p>
